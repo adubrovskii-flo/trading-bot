@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/adubrovskii-flo/trading-bot#readme",
   "dependencies": {
+    "@types/koa": "^2.11.6",
     "koa": "^2.13.0"
   },
   "devDependencies": {
